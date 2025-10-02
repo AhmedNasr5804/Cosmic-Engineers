@@ -1,7 +1,3 @@
-Of course. Here is a complete, well-structured GitHub README description for your project.
-
------
-
 # Exo-Sieve: An AI Pipeline for Exoplanet Discovery 🪐
 
 A two-stage deep learning pipeline built for the **NASA Space Apps 2025 Challenge** ("A World Away: Hunting for Exoplanets with AI") to discover and classify exoplanets from raw light curve data.
